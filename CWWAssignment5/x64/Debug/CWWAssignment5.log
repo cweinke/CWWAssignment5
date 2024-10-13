@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Connor\source\repos\CWWAssignment5\CWWAssignment5\main.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Connor\source\repos\CWWAssignment5\CWWAssignment5\main.cpp(42,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CWWAssignment5.vcxproj -> C:\Users\Connor\source\repos\CWWAssignment5\x64\Debug\CWWAssignment5.exe
